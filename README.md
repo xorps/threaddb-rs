@@ -1,2 +1,2 @@
-# threaddb-rs
-ThreadDB for rust
+# ThreadDB - for rust
+see https://github.com/textileio/go-threads
